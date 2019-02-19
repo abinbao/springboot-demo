@@ -17,7 +17,6 @@ springboot 学习
 
 一个应用应该是一组小型服务；可以通过 http 方式进行通信
 
-
 #### 运行 jar
 
-java -jar ***.jar
+java -jar springboot-demo-0.0.1-SNAPSHOT.jar
