@@ -20,3 +20,13 @@ springboot 学习
 #### 运行 jar
 
 java -jar springboot-demo-0.0.1-SNAPSHOT.jar
+
+
+#### 配置文件
+
+application.properties
+
+application.yml
+
+
+yaml 以数据为中心

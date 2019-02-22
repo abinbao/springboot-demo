@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+person:
+  name: xiaobai
+  age: 18
+  own: 
+    - car
+    - house
