@@ -4,6 +4,8 @@ springboot 学习
 
 https://www.bilibili.com/video/av20965295/?p=18
 
+https://github.com/cuzz1/springboot-learning/blob/master/README.md
+
 ## Spring Boot 简介
 
 - 简化 Spring 开发的框架

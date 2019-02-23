@@ -1,6 +1,5 @@
 package com.beng.configuration;
 
-import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 import com.beng.service.HelloService;
@@ -13,8 +12,8 @@ import com.beng.service.HelloService;
 @Configuration
 public class ConfigurationBean {
 
-    @Bean
     public HelloService helloService() {
+
         return new HelloService();
     }
 }
