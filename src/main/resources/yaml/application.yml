@@ -7,3 +7,12 @@ person:
   own: 
     - car
     - house
+spring:
+  profiles:
+    active: dev
+---
+server:
+  port: 8083
+ 
+spring:
+  profiles: dev
